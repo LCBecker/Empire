@@ -1,4 +1,28 @@
-# Getting Started with Create React App
+# Empire - A High Stakes Game of Merging Wealth
+
+## Roadmap
+
+On connect:
+* Lobby appears: Enter player name. Join existing game or create new game.
+* Once player name is provided:
+  * Assign 1 tile to player
+  * Assign money to player
+* Once 4 players enter the game, determine which player's tile is closest to 1A. This is the first player. Place all initial tiles on the board. 
+* Assign each user 6 tiles.
+* First player plays 1 tile.
+* Empire created? 
+  * Receive 1 Asset of that Empire.
+  * First player can buy up to 3 more Assets.
+* End turn - assign player 1 new tile.
+* Player 2's turn begins.
+
+Extras:
+* Determine what is a dead tile.
+* Allow player to move their tiles in an order they prefer.
+* Add chat box.
+* Add summary of each player's actions.
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
